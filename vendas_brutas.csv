@@ -1,0 +1,251 @@
+"pedido_id","data_pedido","status","cliente_id","nome_cliente","estado","produto_id","nome_produto","categoria","quantidade","preco_venda"
+1,"2024-01-05","concluido",1,"Ana Souza","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+1,"2024-01-05","concluido",1,"Ana Souza","SP",5,"Camiseta Básica","Vestuário",2,49.90
+1,"2024-01-05","concluido",1,"Ana Souza","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+2,"2024-01-09","concluido",2,"Bruno Lima","RJ",2,"Smartwatch Fit","Eletrônicos",1,349.90
+2,"2024-01-09","concluido",2,"Bruno Lima","RJ",8,"Tênis Running","Vestuário",1,299.90
+3,"2024-01-14","cancelado",4,"Diego Ferreira","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+3,"2024-01-14","cancelado",4,"Diego Ferreira","SP",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+4,"2024-01-18","concluido",8,"Henrique Dias","SP",15,"Jogo de Toalhas","Casa",1,99.90
+4,"2024-01-18","concluido",8,"Henrique Dias","SP",17,"Organizador Modular","Casa",1,74.90
+4,"2024-01-18","concluido",8,"Henrique Dias","SP",18,"Cafeteira Elétrica","Casa",1,219.90
+5,"2024-01-22","pendente",10,"João Pereira","RJ",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+5,"2024-01-22","pendente",10,"João Pereira","RJ",4,"Carregador Turbo","Eletrônicos",1,89.90
+6,"2024-01-27","concluido",13,"Mariana Ribeiro","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+6,"2024-01-27","concluido",13,"Mariana Ribeiro","SP",11,"Livro: Python para Dados","Livros",1,89.90
+6,"2024-01-27","concluido",13,"Mariana Ribeiro","SP",12,"Livro: Storytelling","Livros",1,69.90
+7,"2024-02-03","concluido",1,"Ana Souza","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+7,"2024-02-03","concluido",1,"Ana Souza","SP",6,"Calça Jeans Slim","Vestuário",1,159.90
+7,"2024-02-03","concluido",1,"Ana Souza","SP",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+8,"2024-02-08","concluido",3,"Carla Mendes","MG",5,"Camiseta Básica","Vestuário",2,49.90
+8,"2024-02-08","concluido",3,"Carla Mendes","MG",8,"Tênis Running","Vestuário",1,299.90
+8,"2024-02-08","concluido",3,"Carla Mendes","MG",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+9,"2024-02-12","concluido",5,"Elisa Rocha","PR",14,"Jogo de Panelas","Casa",1,189.90
+9,"2024-02-12","concluido",5,"Elisa Rocha","PR",15,"Jogo de Toalhas","Casa",1,99.90
+10,"2024-02-17","cancelado",11,"Karina Oliveira","CE",2,"Smartwatch Fit","Eletrônicos",1,349.90
+10,"2024-02-17","cancelado",11,"Karina Oliveira","CE",4,"Carregador Turbo","Eletrônicos",1,89.90
+11,"2024-02-21","concluido",19,"Sofia Araújo","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+11,"2024-02-21","concluido",19,"Sofia Araújo","SP",11,"Livro: Python para Dados","Livros",1,89.90
+11,"2024-02-21","concluido",19,"Sofia Araújo","SP",13,"Livro: Estatística Básica","Livros",1,59.90
+12,"2024-02-26","concluido",23,"Wendy Moraes","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+12,"2024-02-26","concluido",23,"Wendy Moraes","SP",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+13,"2024-03-02","concluido",2,"Bruno Lima","RJ",5,"Camiseta Básica","Vestuário",3,49.90
+13,"2024-03-02","concluido",2,"Bruno Lima","RJ",5,"Camiseta Básica","Vestuário",2,49.90
+13,"2024-03-02","concluido",2,"Bruno Lima","RJ",6,"Calça Jeans Slim","Vestuário",1,159.90
+13,"2024-03-02","concluido",2,"Bruno Lima","RJ",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+14,"2024-03-07","concluido",4,"Diego Ferreira","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+14,"2024-03-07","concluido",4,"Diego Ferreira","SP",8,"Tênis Running","Vestuário",1,299.90
+15,"2024-03-11","concluido",6,"Felipe Alves","RS",15,"Jogo de Toalhas","Casa",2,99.90
+15,"2024-03-11","concluido",6,"Felipe Alves","RS",17,"Organizador Modular","Casa",1,74.90
+15,"2024-03-11","concluido",6,"Felipe Alves","RS",20,"Kit Ferramentas","Casa",1,149.90
+16,"2024-03-15","pendente",9,"Isabela Castro","PE",1,"Fone Bluetooth","Eletrônicos",1,199.90
+16,"2024-03-15","pendente",9,"Isabela Castro","PE",10,"Livro: SQL na Prática","Livros",1,79.90
+17,"2024-03-19","concluido",12,"Lucas Martins","MG",18,"Cafeteira Elétrica","Casa",1,219.90
+17,"2024-03-19","concluido",12,"Lucas Martins","MG",19,"Aspirador Portátil","Casa",1,259.90
+18,"2024-03-23","concluido",16,"Pedro Henrique","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+18,"2024-03-23","concluido",16,"Pedro Henrique","SP",4,"Carregador Turbo","Eletrônicos",1,89.90
+18,"2024-03-23","concluido",16,"Pedro Henrique","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+19,"2024-03-27","cancelado",20,"Thiago Costa","AM",6,"Calça Jeans Slim","Vestuário",1,159.90
+19,"2024-03-27","cancelado",20,"Thiago Costa","AM",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+20,"2024-03-30","concluido",24,"Xavier Campos","BA",10,"Livro: SQL na Prática","Livros",1,79.90
+20,"2024-03-30","concluido",24,"Xavier Campos","BA",12,"Livro: Storytelling","Livros",1,69.90
+20,"2024-03-30","concluido",24,"Xavier Campos","BA",13,"Livro: Estatística Básica","Livros",1,59.90
+21,"2024-04-04","concluido",1,"Ana Souza","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+21,"2024-04-04","concluido",1,"Ana Souza","SP",5,"Camiseta Básica","Vestuário",2,49.90
+21,"2024-04-04","concluido",1,"Ana Souza","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+22,"2024-04-08","concluido",3,"Carla Mendes","MG",8,"Tênis Running","Vestuário",1,299.90
+22,"2024-04-08","concluido",3,"Carla Mendes","MG",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+23,"2024-04-13","concluido",5,"Elisa Rocha","PR",14,"Jogo de Panelas","Casa",1,189.90
+23,"2024-04-13","concluido",5,"Elisa Rocha","PR",15,"Jogo de Toalhas","Casa",1,99.90
+23,"2024-04-13","concluido",5,"Elisa Rocha","PR",16,"Luminária de Mesa","Casa",1,119.90
+24,"2024-04-17","concluido",7,"Gabriela Nunes","BA",2,"Smartwatch Fit","Eletrônicos",1,349.90
+24,"2024-04-17","concluido",7,"Gabriela Nunes","BA",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+25,"2024-04-21","concluido",10,"João Pereira","RJ",10,"Livro: SQL na Prática","Livros",1,79.90
+25,"2024-04-21","concluido",10,"João Pereira","RJ",11,"Livro: Python para Dados","Livros",1,89.90
+25,"2024-04-21","concluido",10,"João Pereira","RJ",12,"Livro: Storytelling","Livros",1,69.90
+26,"2024-04-25","cancelado",14,"Nicolas Barbosa","DF",5,"Camiseta Básica","Vestuário",2,49.90
+26,"2024-04-25","cancelado",14,"Nicolas Barbosa","DF",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+27,"2024-04-28","concluido",18,"Rafael Teixeira","RJ",1,"Fone Bluetooth","Eletrônicos",1,199.90
+27,"2024-04-28","concluido",18,"Rafael Teixeira","RJ",8,"Tênis Running","Vestuário",1,299.90
+28,"2024-04-30","concluido",22,"Victor Hugo","PR",15,"Jogo de Toalhas","Casa",2,99.90
+28,"2024-04-30","concluido",22,"Victor Hugo","PR",17,"Organizador Modular","Casa",1,74.90
+28,"2024-04-30","concluido",22,"Victor Hugo","PR",18,"Cafeteira Elétrica","Casa",1,219.90
+29,"2024-05-02","concluido",1,"Ana Souza","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+29,"2024-05-02","concluido",1,"Ana Souza","SP",4,"Carregador Turbo","Eletrônicos",1,89.90
+29,"2024-05-02","concluido",1,"Ana Souza","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+30,"2024-05-04","concluido",2,"Bruno Lima","RJ",1,"Fone Bluetooth","Eletrônicos",1,199.90
+30,"2024-05-04","concluido",2,"Bruno Lima","RJ",6,"Calça Jeans Slim","Vestuário",1,159.90
+31,"2024-05-06","concluido",3,"Carla Mendes","MG",14,"Jogo de Panelas","Casa",1,189.90
+31,"2024-05-06","concluido",3,"Carla Mendes","MG",15,"Jogo de Toalhas","Casa",1,99.90
+32,"2024-05-08","concluido",4,"Diego Ferreira","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+32,"2024-05-08","concluido",4,"Diego Ferreira","SP",8,"Tênis Running","Vestuário",1,299.90
+33,"2024-05-10","concluido",5,"Elisa Rocha","PR",10,"Livro: SQL na Prática","Livros",1,79.90
+33,"2024-05-10","concluido",5,"Elisa Rocha","PR",11,"Livro: Python para Dados","Livros",1,89.90
+33,"2024-05-10","concluido",5,"Elisa Rocha","PR",12,"Livro: Storytelling","Livros",1,69.90
+33,"2024-05-10","concluido",5,"Elisa Rocha","PR",13,"Livro: Estatística Básica","Livros",1,59.90
+34,"2024-05-12","concluido",6,"Felipe Alves","RS",1,"Fone Bluetooth","Eletrônicos",1,199.90
+34,"2024-05-12","concluido",6,"Felipe Alves","RS",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+34,"2024-05-12","concluido",6,"Felipe Alves","RS",5,"Camiseta Básica","Vestuário",2,49.90
+35,"2024-05-15","concluido",8,"Henrique Dias","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+35,"2024-05-15","concluido",8,"Henrique Dias","SP",8,"Tênis Running","Vestuário",1,299.90
+36,"2024-05-18","pendente",11,"Karina Oliveira","CE",15,"Jogo de Toalhas","Casa",1,99.90
+36,"2024-05-18","pendente",11,"Karina Oliveira","CE",16,"Luminária de Mesa","Casa",1,119.90
+37,"2024-05-21","concluido",15,"Olívia Cardoso","SC",14,"Jogo de Panelas","Casa",1,189.90
+37,"2024-05-21","concluido",15,"Olívia Cardoso","SC",18,"Cafeteira Elétrica","Casa",1,219.90
+37,"2024-05-21","concluido",15,"Olívia Cardoso","SC",19,"Aspirador Portátil","Casa",1,259.90
+38,"2024-05-24","concluido",19,"Sofia Araújo","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+38,"2024-05-24","concluido",19,"Sofia Araújo","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+39,"2024-05-27","cancelado",21,"Ursula Pinto","MG",6,"Calça Jeans Slim","Vestuário",1,159.90
+39,"2024-05-27","cancelado",21,"Ursula Pinto","MG",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+40,"2024-05-30","concluido",25,"Yara Fernandes","RS",5,"Camiseta Básica","Vestuário",2,49.90
+40,"2024-05-30","concluido",25,"Yara Fernandes","RS",8,"Tênis Running","Vestuário",1,299.90
+40,"2024-05-30","concluido",25,"Yara Fernandes","RS",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+41,"2024-06-03","concluido",1,"Ana Souza","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+41,"2024-06-03","concluido",1,"Ana Souza","SP",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+42,"2024-06-07","concluido",2,"Bruno Lima","RJ",10,"Livro: SQL na Prática","Livros",1,79.90
+42,"2024-06-07","concluido",2,"Bruno Lima","RJ",11,"Livro: Python para Dados","Livros",1,89.90
+43,"2024-06-11","concluido",5,"Elisa Rocha","PR",1,"Fone Bluetooth","Eletrônicos",1,199.90
+43,"2024-06-11","concluido",5,"Elisa Rocha","PR",8,"Tênis Running","Vestuário",1,299.90
+43,"2024-06-11","concluido",5,"Elisa Rocha","PR",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+44,"2024-06-15","concluido",7,"Gabriela Nunes","BA",11,"Livro: Python para Dados","Livros",1,89.90
+44,"2024-06-15","concluido",7,"Gabriela Nunes","BA",14,"Jogo de Panelas","Casa",1,189.90
+44,"2024-06-15","concluido",7,"Gabriela Nunes","BA",15,"Jogo de Toalhas","Casa",1,99.90
+44,"2024-06-15","concluido",7,"Gabriela Nunes","BA",20,"Kit Ferramentas","Casa",1,149.90
+45,"2024-06-19","cancelado",9,"Isabela Castro","PE",2,"Smartwatch Fit","Eletrônicos",1,349.90
+45,"2024-06-19","cancelado",9,"Isabela Castro","PE",4,"Carregador Turbo","Eletrônicos",1,89.90
+46,"2024-06-22","concluido",13,"Mariana Ribeiro","SP",5,"Camiseta Básica","Vestuário",3,49.90
+46,"2024-06-22","concluido",13,"Mariana Ribeiro","SP",6,"Calça Jeans Slim","Vestuário",1,159.90
+47,"2024-06-25","concluido",17,"Queren Silva","GO",1,"Fone Bluetooth","Eletrônicos",1,199.90
+47,"2024-06-25","concluido",17,"Queren Silva","GO",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+47,"2024-06-25","concluido",17,"Queren Silva","GO",10,"Livro: SQL na Prática","Livros",1,79.90
+48,"2024-06-28","concluido",23,"Wendy Moraes","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+48,"2024-06-28","concluido",23,"Wendy Moraes","SP",8,"Tênis Running","Vestuário",1,299.90
+49,"2024-07-02","concluido",2,"Bruno Lima","RJ",15,"Jogo de Toalhas","Casa",2,99.90
+49,"2024-07-02","concluido",2,"Bruno Lima","RJ",17,"Organizador Modular","Casa",1,74.90
+50,"2024-07-06","concluido",4,"Diego Ferreira","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+50,"2024-07-06","concluido",4,"Diego Ferreira","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+50,"2024-07-06","concluido",4,"Diego Ferreira","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+51,"2024-07-10","concluido",6,"Felipe Alves","RS",10,"Livro: SQL na Prática","Livros",1,79.90
+51,"2024-07-10","concluido",6,"Felipe Alves","RS",12,"Livro: Storytelling","Livros",1,69.90
+52,"2024-07-14","concluido",10,"João Pereira","RJ",14,"Jogo de Panelas","Casa",1,189.90
+52,"2024-07-14","concluido",10,"João Pereira","RJ",18,"Cafeteira Elétrica","Casa",1,219.90
+53,"2024-07-18","pendente",12,"Lucas Martins","MG",5,"Camiseta Básica","Vestuário",2,49.90
+53,"2024-07-18","pendente",12,"Lucas Martins","MG",9,"Meias Kit 3 Pares","Vestuário",3,29.90
+54,"2024-07-22","concluido",16,"Pedro Henrique","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+54,"2024-07-22","concluido",16,"Pedro Henrique","SP",8,"Tênis Running","Vestuário",1,299.90
+55,"2024-07-26","concluido",20,"Thiago Costa","AM",15,"Jogo de Toalhas","Casa",1,99.90
+55,"2024-07-26","concluido",20,"Thiago Costa","AM",16,"Luminária de Mesa","Casa",1,119.90
+55,"2024-07-26","concluido",20,"Thiago Costa","AM",20,"Kit Ferramentas","Casa",1,149.90
+56,"2024-07-30","concluido",24,"Xavier Campos","BA",2,"Smartwatch Fit","Eletrônicos",1,349.90
+56,"2024-07-30","concluido",24,"Xavier Campos","BA",6,"Calça Jeans Slim","Vestuário",1,159.90
+57,"2024-08-03","concluido",1,"Ana Souza","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+57,"2024-08-03","concluido",1,"Ana Souza","SP",11,"Livro: Python para Dados","Livros",1,89.90
+57,"2024-08-03","concluido",1,"Ana Souza","SP",13,"Livro: Estatística Básica","Livros",1,59.90
+57,"2024-08-03","concluido",1,"Ana Souza","SP",15,"Jogo de Toalhas","Casa",1,99.90
+58,"2024-08-07","concluido",3,"Carla Mendes","MG",1,"Fone Bluetooth","Eletrônicos",1,199.90
+58,"2024-08-07","concluido",3,"Carla Mendes","MG",5,"Camiseta Básica","Vestuário",2,49.90
+59,"2024-08-11","concluido",5,"Elisa Rocha","PR",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+59,"2024-08-11","concluido",5,"Elisa Rocha","PR",8,"Tênis Running","Vestuário",1,299.90
+59,"2024-08-11","concluido",5,"Elisa Rocha","PR",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+60,"2024-08-15","cancelado",8,"Henrique Dias","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+60,"2024-08-15","cancelado",8,"Henrique Dias","SP",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+61,"2024-08-19","concluido",11,"Karina Oliveira","CE",14,"Jogo de Panelas","Casa",1,189.90
+61,"2024-08-19","concluido",11,"Karina Oliveira","CE",15,"Jogo de Toalhas","Casa",1,99.90
+62,"2024-08-23","concluido",14,"Nicolas Barbosa","DF",1,"Fone Bluetooth","Eletrônicos",1,199.90
+62,"2024-08-23","concluido",14,"Nicolas Barbosa","DF",10,"Livro: SQL na Prática","Livros",1,79.90
+62,"2024-08-23","concluido",14,"Nicolas Barbosa","DF",11,"Livro: Python para Dados","Livros",1,89.90
+63,"2024-08-27","concluido",18,"Rafael Teixeira","RJ",6,"Calça Jeans Slim","Vestuário",1,159.90
+63,"2024-08-27","concluido",18,"Rafael Teixeira","RJ",8,"Tênis Running","Vestuário",1,299.90
+64,"2024-08-30","concluido",22,"Victor Hugo","PR",15,"Jogo de Toalhas","Casa",2,99.90
+64,"2024-08-30","concluido",22,"Victor Hugo","PR",17,"Organizador Modular","Casa",1,74.90
+64,"2024-08-30","concluido",22,"Victor Hugo","PR",18,"Cafeteira Elétrica","Casa",1,219.90
+65,"2024-09-03","concluido",2,"Bruno Lima","RJ",2,"Smartwatch Fit","Eletrônicos",1,349.90
+65,"2024-09-03","concluido",2,"Bruno Lima","RJ",4,"Carregador Turbo","Eletrônicos",1,89.90
+66,"2024-09-07","concluido",4,"Diego Ferreira","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+66,"2024-09-07","concluido",4,"Diego Ferreira","SP",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+66,"2024-09-07","concluido",4,"Diego Ferreira","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+67,"2024-09-11","concluido",6,"Felipe Alves","RS",10,"Livro: SQL na Prática","Livros",1,79.90
+67,"2024-09-11","concluido",6,"Felipe Alves","RS",12,"Livro: Storytelling","Livros",1,69.90
+68,"2024-09-15","concluido",9,"Isabela Castro","PE",14,"Jogo de Panelas","Casa",1,189.90
+68,"2024-09-15","concluido",9,"Isabela Castro","PE",15,"Jogo de Toalhas","Casa",1,99.90
+68,"2024-09-15","concluido",9,"Isabela Castro","PE",20,"Kit Ferramentas","Casa",1,149.90
+69,"2024-09-19","pendente",13,"Mariana Ribeiro","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+69,"2024-09-19","pendente",13,"Mariana Ribeiro","SP",8,"Tênis Running","Vestuário",1,299.90
+70,"2024-09-23","concluido",17,"Queren Silva","GO",1,"Fone Bluetooth","Eletrônicos",1,199.90
+70,"2024-09-23","concluido",17,"Queren Silva","GO",5,"Camiseta Básica","Vestuário",2,49.90
+71,"2024-09-27","concluido",21,"Ursula Pinto","MG",2,"Smartwatch Fit","Eletrônicos",1,349.90
+71,"2024-09-27","concluido",21,"Ursula Pinto","MG",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+71,"2024-09-27","concluido",21,"Ursula Pinto","MG",4,"Carregador Turbo","Eletrônicos",1,89.90
+72,"2024-09-30","concluido",25,"Yara Fernandes","RS",10,"Livro: SQL na Prática","Livros",1,79.90
+72,"2024-09-30","concluido",25,"Yara Fernandes","RS",11,"Livro: Python para Dados","Livros",1,89.90
+72,"2024-09-30","concluido",25,"Yara Fernandes","RS",13,"Livro: Estatística Básica","Livros",1,59.90
+73,"2024-10-04","concluido",1,"Ana Souza","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+73,"2024-10-04","concluido",1,"Ana Souza","SP",8,"Tênis Running","Vestuário",1,299.90
+73,"2024-10-04","concluido",1,"Ana Souza","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+74,"2024-10-08","concluido",3,"Carla Mendes","MG",14,"Jogo de Panelas","Casa",1,189.90
+74,"2024-10-08","concluido",3,"Carla Mendes","MG",18,"Cafeteira Elétrica","Casa",1,219.90
+75,"2024-10-12","concluido",5,"Elisa Rocha","PR",5,"Camiseta Básica","Vestuário",3,49.90
+75,"2024-10-12","concluido",5,"Elisa Rocha","PR",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+76,"2024-10-16","cancelado",7,"Gabriela Nunes","BA",2,"Smartwatch Fit","Eletrônicos",1,349.90
+76,"2024-10-16","cancelado",7,"Gabriela Nunes","BA",6,"Calça Jeans Slim","Vestuário",1,159.90
+77,"2024-10-20","concluido",10,"João Pereira","RJ",10,"Livro: SQL na Prática","Livros",1,79.90
+77,"2024-10-20","concluido",10,"João Pereira","RJ",12,"Livro: Storytelling","Livros",1,69.90
+77,"2024-10-20","concluido",10,"João Pereira","RJ",13,"Livro: Estatística Básica","Livros",1,59.90
+78,"2024-10-24","concluido",15,"Olívia Cardoso","SC",1,"Fone Bluetooth","Eletrônicos",1,199.90
+78,"2024-10-24","concluido",15,"Olívia Cardoso","SC",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+79,"2024-10-28","concluido",19,"Sofia Araújo","SP",15,"Jogo de Toalhas","Casa",2,99.90
+79,"2024-10-28","concluido",19,"Sofia Araújo","SP",16,"Luminária de Mesa","Casa",1,119.90
+79,"2024-10-28","concluido",19,"Sofia Araújo","SP",20,"Kit Ferramentas","Casa",1,149.90
+80,"2024-10-31","concluido",23,"Wendy Moraes","SP",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+80,"2024-10-31","concluido",23,"Wendy Moraes","SP",8,"Tênis Running","Vestuário",1,299.90
+80,"2024-10-31","concluido",23,"Wendy Moraes","SP",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+81,"2024-11-02","concluido",1,"Ana Souza","SP",2,"Smartwatch Fit","Eletrônicos",1,349.90
+81,"2024-11-02","concluido",1,"Ana Souza","SP",4,"Carregador Turbo","Eletrônicos",1,89.90
+81,"2024-11-02","concluido",1,"Ana Souza","SP",13,"Livro: Estatística Básica","Livros",1,59.90
+82,"2024-11-05","concluido",2,"Bruno Lima","RJ",1,"Fone Bluetooth","Eletrônicos",1,199.90
+82,"2024-11-05","concluido",2,"Bruno Lima","RJ",10,"Livro: SQL na Prática","Livros",1,79.90
+82,"2024-11-05","concluido",2,"Bruno Lima","RJ",11,"Livro: Python para Dados","Livros",1,89.90
+83,"2024-11-08","concluido",3,"Carla Mendes","MG",6,"Calça Jeans Slim","Vestuário",1,159.90
+83,"2024-11-08","concluido",3,"Carla Mendes","MG",8,"Tênis Running","Vestuário",1,299.90
+84,"2024-11-11","concluido",4,"Diego Ferreira","SP",14,"Jogo de Panelas","Casa",1,189.90
+84,"2024-11-11","concluido",4,"Diego Ferreira","SP",15,"Jogo de Toalhas","Casa",1,99.90
+84,"2024-11-11","concluido",4,"Diego Ferreira","SP",18,"Cafeteira Elétrica","Casa",1,219.90
+85,"2024-11-14","concluido",5,"Elisa Rocha","PR",1,"Fone Bluetooth","Eletrônicos",1,199.90
+85,"2024-11-14","concluido",5,"Elisa Rocha","PR",5,"Camiseta Básica","Vestuário",2,49.90
+86,"2024-11-17","concluido",6,"Felipe Alves","RS",2,"Smartwatch Fit","Eletrônicos",1,349.90
+86,"2024-11-17","concluido",6,"Felipe Alves","RS",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+87,"2024-11-20","concluido",8,"Henrique Dias","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+87,"2024-11-20","concluido",8,"Henrique Dias","SP",12,"Livro: Storytelling","Livros",1,69.90
+88,"2024-11-22","concluido",11,"Karina Oliveira","CE",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+88,"2024-11-22","concluido",11,"Karina Oliveira","CE",8,"Tênis Running","Vestuário",1,299.90
+88,"2024-11-22","concluido",11,"Karina Oliveira","CE",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+89,"2024-11-25","concluido",13,"Mariana Ribeiro","SP",1,"Fone Bluetooth","Eletrônicos",1,199.90
+89,"2024-11-25","concluido",13,"Mariana Ribeiro","SP",15,"Jogo de Toalhas","Casa",1,99.90
+90,"2024-11-27","cancelado",16,"Pedro Henrique","SP",14,"Jogo de Panelas","Casa",1,189.90
+90,"2024-11-27","cancelado",16,"Pedro Henrique","SP",18,"Cafeteira Elétrica","Casa",1,219.90
+91,"2024-11-28","concluido",20,"Thiago Costa","AM",2,"Smartwatch Fit","Eletrônicos",1,349.90
+91,"2024-11-28","concluido",20,"Thiago Costa","AM",4,"Carregador Turbo","Eletrônicos",1,89.90
+91,"2024-11-28","concluido",20,"Thiago Costa","AM",9,"Meias Kit 3 Pares","Vestuário",2,29.90
+92,"2024-11-29","concluido",24,"Xavier Campos","BA",1,"Fone Bluetooth","Eletrônicos",1,199.90
+92,"2024-11-29","concluido",24,"Xavier Campos","BA",8,"Tênis Running","Vestuário",1,299.90
+93,"2024-12-03","concluido",1,"Ana Souza","SP",6,"Calça Jeans Slim","Vestuário",1,159.90
+93,"2024-12-03","concluido",1,"Ana Souza","SP",10,"Livro: SQL na Prática","Livros",1,79.90
+93,"2024-12-03","concluido",1,"Ana Souza","SP",11,"Livro: Python para Dados","Livros",1,89.90
+93,"2024-12-03","concluido",1,"Ana Souza","SP",12,"Livro: Storytelling","Livros",1,69.90
+94,"2024-12-07","concluido",3,"Carla Mendes","MG",5,"Camiseta Básica","Vestuário",3,49.90
+94,"2024-12-07","concluido",3,"Carla Mendes","MG",6,"Calça Jeans Slim","Vestuário",1,159.90
+95,"2024-12-11","concluido",5,"Elisa Rocha","PR",14,"Jogo de Panelas","Casa",1,189.90
+95,"2024-12-11","concluido",5,"Elisa Rocha","PR",15,"Jogo de Toalhas","Casa",1,99.90
+95,"2024-12-11","concluido",5,"Elisa Rocha","PR",20,"Kit Ferramentas","Casa",1,149.90
+96,"2024-12-15","concluido",7,"Gabriela Nunes","BA",1,"Fone Bluetooth","Eletrônicos",1,199.90
+96,"2024-12-15","concluido",7,"Gabriela Nunes","BA",3,"Caixa de Som Portátil","Eletrônicos",1,249.90
+97,"2024-12-18","pendente",9,"Isabela Castro","PE",2,"Smartwatch Fit","Eletrônicos",1,349.90
+97,"2024-12-18","pendente",9,"Isabela Castro","PE",8,"Tênis Running","Vestuário",1,299.90
+98,"2024-12-21","concluido",12,"Lucas Martins","MG",15,"Jogo de Toalhas","Casa",2,99.90
+98,"2024-12-21","concluido",12,"Lucas Martins","MG",17,"Organizador Modular","Casa",1,74.90
+98,"2024-12-21","concluido",12,"Lucas Martins","MG",18,"Cafeteira Elétrica","Casa",1,219.90
+99,"2024-12-24","concluido",18,"Rafael Teixeira","RJ",1,"Fone Bluetooth","Eletrônicos",1,199.90
+99,"2024-12-24","concluido",18,"Rafael Teixeira","RJ",10,"Livro: SQL na Prática","Livros",1,79.90
+99,"2024-12-24","concluido",18,"Rafael Teixeira","RJ",11,"Livro: Python para Dados","Livros",1,89.90
+100,"2024-12-28","concluido",22,"Victor Hugo","PR",7,"Jaqueta Corta-Vento","Vestuário",1,229.90
+100,"2024-12-28","concluido",22,"Victor Hugo","PR",8,"Tênis Running","Vestuário",1,299.90
